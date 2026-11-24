@@ -15,7 +15,7 @@ velocidade_padrao = 5
 cor_fundo = (0, 0, 0)
 cor_cobra = (0, 255, 0)
 
-cabeca_cobra = pygame.image.load("")
+cabeca_cobra = pygame.image.load("/assents/cabeca_cobra.png")
 #importando imagem inicial da cobra
 
 jogando = True
